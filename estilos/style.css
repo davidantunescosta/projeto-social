@@ -44,7 +44,7 @@ iframe#tela {
 
 /*Quando coloco o <br> no home, ele fica a esquerda! - Aqui eu jogo a direita ou pra onde eu quiser*/
 section#redes-sociais { 
-    display: block;
+    position: absolute
     text-align: right;
 }
 
