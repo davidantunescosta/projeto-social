@@ -17,6 +17,13 @@ img {
     width: 100vw;
 }
 
+main { 
+    position: relative;
+}
+
+section#redes-sociais {
+    position: absolute;
+}
 a {
     display: block; /*Faz com quem o botão "acesse", fique em baixo!*/
     background-color: darkred;
